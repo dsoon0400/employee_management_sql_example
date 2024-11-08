@@ -1,0 +1,4 @@
+# Ignore environment or IDE-specific files
+.env
+.idea/
+*.sqlite
